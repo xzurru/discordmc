@@ -1,0 +1,9 @@
+name: DiscordPlugin
+version: '1.0'
+main: zmod.discordplugin.Discordplugin
+api-version: '1.21'
+
+commands:
+  discord:
+    description: Shows the link to our Discord server
+    usage: /discord
